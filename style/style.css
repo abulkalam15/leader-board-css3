@@ -45,6 +45,7 @@ hr{
 .player img{
     width: 56px;
     height: 56px;
+    margin-right: 10px;
 }
 .player-name{
     margin-left: 16px;
